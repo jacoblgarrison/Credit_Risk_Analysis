@@ -13,7 +13,9 @@ The results for the machine learning models are below:
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/95515322/168405784-92280223-5ad6-4b74-9ca0-3ca5d8aa6794.png)
 
 Balanced Accuracy score: 0.6497536370265621
+
 The precision is low for High-Risk loans and is high for Low-Risk loans
+
 Recall: High-Risk: 0.62 | Low-Risk 0.68
 
 ## SMOTE Oversampling
@@ -21,7 +23,9 @@ Recall: High-Risk: 0.62 | Low-Risk 0.68
 ![Smote Oversampling](https://user-images.githubusercontent.com/95515322/168405979-c57b7cc0-92a6-4144-a3fd-2578e899a1c4.png)
 
 Balanced Accuracy score: 0.6443721269403855
+
 The precision is low for High-Risk and is high for Low-Risk
+
 Recall: High-Risk: 0.63 | Low-Risk: 0.66
 
 ## Undersampling
@@ -29,7 +33,9 @@ Recall: High-Risk: 0.63 | Low-Risk: 0.66
 ![Undersampling](https://user-images.githubusercontent.com/95515322/168406050-b87f34b5-539e-4df3-a9fa-019d9f9dce39.png)
 
 Balanced Accuracy score: 0.6443721269403855
+
 The precision is low for High-Risk and is high for Low-Risk
+
 Recall: High-Risk: 0.61 | Low-Risk: 0.45
 
 ## Combination Over and Under Sampling
@@ -37,7 +43,9 @@ Recall: High-Risk: 0.61 | Low-Risk: 0.45
 ![Combination Over and Under Sampling](https://user-images.githubusercontent.com/95515322/168406124-ee3f0156-a851-4a38-a995-07850afbf2f9.png)
 
 Balanced Accuracy score: 0.5292734810302525
+
 The precision is low for High-Risk and is high for Low-Risk
+
 Recall: High-Risk: 0.70 | Low-Risk: 0.57
 
 ## Balanced Random Forest Classifier
@@ -45,7 +53,9 @@ Recall: High-Risk: 0.70 | Low-Risk: 0.57
 ![Balanced random Forest Classifier](https://user-images.githubusercontent.com/95515322/168406178-48d8a41c-4a42-4fe9-8033-8dd86349c101.png)
 
 Balanced Accuracy score: 0.7877672625306695
+
 The precision is low for High-Risk and is high for Low-Risk
+
 Recall: High-Risk: 0.67 | Low-Risk: 0.91
 
 ## Easy Ensemble AdaBoost Classifier
@@ -53,7 +63,9 @@ Recall: High-Risk: 0.67 | Low-Risk: 0.91
 ![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/95515322/168406240-432efa73-e82f-459e-8eab-9211eaa246ef.png)
 
 Balanced Accuracy score: 0.925427358175101
+
 The precision is low for High-Risk and is high for Low-Risk
+
 Recall: High-Risk: 0.91 | Low-Risk: 0.94
 
 ## Summary
